@@ -1,2 +1,2 @@
 # css-project
-This is a css project https://github.com/narenbala/css-project.git
+This is a css project https://narenbala.github.io/css-project/index.html
